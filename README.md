@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Eyael Mekuanint</h1>
 
-<p>I am a software developer from ASTU with interest for building immersive experiences and interactive applications. I'm always up for challenging myself.</p>
+<p>I am a software developer from AASTU with interest for building immersive experiences and interactive applications. I'm always up for challenging myself.</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Eyaelmekuanint&show_icons=true&theme=radical&locale=en)<br/>
