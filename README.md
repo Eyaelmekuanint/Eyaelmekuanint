@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/baslael-workineh-ayele-131b11248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baslaelworkineh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eyael-mekuanint-843774308/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eyael Mekuanint" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ja.el1200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Eyael Mekuanint" height="30" width="40" /></a>
 </p>
 
